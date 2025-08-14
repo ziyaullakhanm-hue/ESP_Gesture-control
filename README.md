@@ -1,5 +1,6 @@
 # ESP_Gesture-control
 Performing mouse activities using ESP32_CAM by guestute control
+<<<<<<< HEAD
 author - Mohammed Imranulla Khan
 # Gesture Mouse with Face Detection
 
@@ -20,3 +21,7 @@ venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+=======
+<br> <br>
+author - Mohammed Imranulla Khan
+>>>>>>> ec8df2b1589efc19c25c4577b70a5c0e06310df8
