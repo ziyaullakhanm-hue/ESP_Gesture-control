@@ -1,1 +1,4 @@
-opencv-phyton 
+opencv-python
+mediapipe
+pyautogui
+screeninfo
